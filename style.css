@@ -1,11 +1,11 @@
 @font-face {
   font-family: Poppins;
-  src: url("../Attestation-INDEX/Assets/Fonts/Poppins/Poppins-Regular.ttf");
+  src: url("../Assets/Fonts/Poppins/Poppins-Regular.ttf");
 }
 
 @font-face {
   font-family: Jost;
-  src: url("../Attestation-INDEX/Assets/Fonts/Jost/Jost-Regular.ttf");
+  src: url("../Assets/Fonts/Jost/Jost-Regular.ttf");
 }
 
 body {
