@@ -21,11 +21,6 @@ body {
   text-align: left;
 }
 
-.header {
-  display: inline-flex;
-  justify-content: baseline;
-}
-
 .menu {
   height: 45px;
   margin: 0;
