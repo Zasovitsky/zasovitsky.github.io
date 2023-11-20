@@ -181,6 +181,7 @@ span {
   box-shadow: 11px 21px 15px 6px #00000040;
   color: #2000E7;
   text-align: center;
+  cursor: pointer;
 }
 
 .Photo1 {
